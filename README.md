@@ -1,24 +1,25 @@
-# excel-admin
-Excel automation portfolio for administrative tasks including purchase order, inventory tracking, and reporting dashboard.
-# 📊 Excel Admin Portfolio
+# 📊 Excel Admin Automation Portfolio
+
+![Thumbnail](thumbnail.png)
+
+## 🚀 Overview
+This project showcases an Excel-based administrative system designed to automate business processes such as purchase orders, inventory tracking, and reporting.
 
 ## 🔧 Features
 - Purchase Order Automation
 - Currency Conversion (USD & IDR)
 - Tax Calculation (PPN & PPh)
 - Inventory Tracking
-- Sales Reporting
+- Sales Reporting Dashboard
 
-## 📁 File
+## 🛠 Tools Used
+- Microsoft Excel
+- Advanced Formulas
+- Data Analysis
+
+## 📁 File Included
 - Excel-Admin-Automation-Portfolio.xlsx
 
-## 💼 Use Case
-- Data Entry
-- Administrative Support
-- Excel Automation
-- Reporting System
-
-## 👤 Author
-Tomi Hermawan
-
-💬 Available for freelance work on Upwork
+## 💼 Author
+Tomi Hermawan  
+Excel Data Analyst | Admin Support
